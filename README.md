@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[https://img.youtube.com/shorts/3tHjm0hqIiE/0.jpg](https://youtube.com/shorts/3tHjm0hqIiE)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDg0OGRkMmVjNDAxMDJkZDczMTE2MTVhY2YzYzQxZDVkYTg4YTgwNyZjdD1n/YRMu7X0WxTk1oK70LP/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
